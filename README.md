@@ -33,7 +33,6 @@ I'm a passionate **Blockchain Developer** and **Full-Stack Software Engineer** b
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -147,7 +146,7 @@ contract AIAgent {
 - 💼 **LinkedIn**: [linkedin.com/in/alexander-derugo](https://linkedin.com/in/alexander-derugo)
 - 📧 **Email**: alexderugo@gmail.com
 - 🐙 **GitHub**: [github.com/predator4727](https://github.com/predator4727)
-- 📍 **Location**: Dubai, UAE
+- 📍 **Location**: Abu Dhabi / Dubai, UAE
 - 📱 **Phone**: +971-585741045
 - 💬 **Open to**: Blockchain development roles, AI integration projects, and innovative Web3 collaborations
 
@@ -163,5 +162,3 @@ contract AIAgent {
 </div>
 
 ---
-
-⭐️ **Fun Stats**: Currently managing **30+ repositories** with expertise in **Solidity**, **Rust**, **TypeScript**, **Python**, and **AI integration** across multiple blockchain ecosystems!
